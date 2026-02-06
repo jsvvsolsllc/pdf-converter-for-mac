@@ -1,0 +1,13 @@
+{
+  "name": "pdf-converter-for-mac",
+  "version": "1.0.0",
+  "description": "Free PDF converter that works on Mac, Windows, and Linux. Convert documents to PDF directly in your browser.",
+  "homepage": "https://pdfconverterformac.net",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsvvsolsllc/pdf-converter-for-mac"
+  },
+  "keywords": ["pdf-converter","pdf-converter-mac","doc-to-pdf","word-to-pdf","free-pdf-converter"],
+  "author": "JSVV SOLS LLC",
+  "license": "MIT"
+}
